@@ -21,7 +21,7 @@ function Header() {
             <p>Also Available On</p>
             <div className="flex"> 
             <img src="/images/flipkart.png" alt="" />
-            <img src="/images/amazon.png" alt="" />
+            <img className="mx-4" src="/images/amazon.png" alt="" />
             </div>
         </div>
 
