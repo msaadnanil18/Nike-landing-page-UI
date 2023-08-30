@@ -6,7 +6,7 @@ function Navbar() {
       <div className="m-2" >
         <img src="/images/brand_logo.png" alt="logo" />
         </div>
-       <ul className="flex my-4 " >
+       <ul className=" hidden md:flex my-4  " >
         <li className="mx-2 hover:text-slate-950 font-semibold cursor-pointer " ><a href>LOCATION</a></li>
         <li className="mx-2 hover:text-slate-950 font-semibold cursor-pointer " ><a href>ABOUT</a></li>
         <li className="mx-2 hover:text-slate-950 font-semibold cursor-pointer " ><a href>MENU</a></li>
